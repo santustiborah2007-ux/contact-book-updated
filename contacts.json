@@ -1,0 +1,20 @@
+[
+    {
+        "name": "rajesh",
+        "phone": "54333221"
+    },
+    {
+        "name": "akshay sen",
+        "phone": "221133445566"
+    },
+    {
+        "name": "himesh jain ",
+        "phone": "334455667788"
+    },
+    {
+        "name": "Ben Azelart",
+        "phone": "100034567",
+        "email": "benazelart9876@gmail.com",
+        "address": "california, hungtinton beach, usa."
+    }
+]
